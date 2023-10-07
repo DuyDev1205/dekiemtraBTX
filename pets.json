@@ -1,0 +1,602 @@
+[
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "phap",
+    "thuoc_tinh": "long_dai"
+  },
+  {
+    "mau_sac": "den",
+    "gioi_tinh": "cai",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_ngan"
+  },
+  {
+    "mau_sac": "trang",
+    "gioi_tinh": "duc",
+    "xuat_su": "anh",
+    "thuoc_tinh": "long_dai"
+  }
+]
