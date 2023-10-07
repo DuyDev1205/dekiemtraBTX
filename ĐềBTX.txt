@@ -1,0 +1,28 @@
+Đề
+Câu 1:Nhập tổng tiền , in ra tổng tiền sau thuế , biết rằng (Tiền thuế bằng = 10% tổng tiền )
+
+input
+tongtien=1,000.000
+
+output
+1,100.000
+
+Câu 2: 
+input
+00 email 
+01a ds email
+01b ds tên
+
+output 
+ten cua email do - tim trong danh sach tên
+
+
+Câu 3:
+trong 100 con cừu ,
+trong dict có màu sắc(đen,trang ), giống( duc , cai ) , xuất sứ( anh , phap) , thuộc tính ( long ngan , long dai ).
+hãy đếm xem có bao nhiêu con thỏa mãn cả 4 điều kiện  trên
+input 
+đen đực anh long_ngan
+
+output 
+4
